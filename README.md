@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sadia Shakiba Bhuiyan</h1>
 <h3 align="center">A passionate AI Researcher, Machine Learning Engineer & Laravel Developer</h3>
-<img align="right" alt="coding" width="270" height="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiashakiba&label=Profile%20views&color=0e75b6&style=flat" alt="sadiashakiba" /> </p>
+<img align="right" alt="coding" width="220" height="260" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
