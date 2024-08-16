@@ -27,6 +27,6 @@
 <h3 align="left">✨Stats✨</h3>
 <p><img align="left" width="280" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiashakiba&show_icons=true&locale=en&layout=compact" alt="sadiashakiba" /></p>
 
-<p>&nbsp;<img align="right" height="230" width="280" src="https://github-readme-stats.vercel.app/api?username=sadiashakiba&show_icons=true&locale=en" alt="sadiashakiba" /></p>
+<p><img align="right" height="230" width="280" src="https://github-readme-stats.vercel.app/api?username=sadiashakiba&show_icons=true&locale=en" alt="sadiashakiba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiashakiba&" alt="sadiashakiba" /></p>
