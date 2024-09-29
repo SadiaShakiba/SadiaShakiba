@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate AI Researcher, Machine Learning Engineer & Backend Developer</h3>
+<h3 align="center">A passionate AI Researcher & Backend Developer</h3>
 <img align="right" alt="coding" width="340" height="260" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <br/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
