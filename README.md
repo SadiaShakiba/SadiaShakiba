@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [ImageSInsight](https://github.com/SadiaShakiba/ImageSInsight)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Streamlit, PHP, TensorFlow, Laravel**
 
