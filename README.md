@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Streamlit, PHP, TensorFlow, Laravel**
+- 💬 Ask me about **Streamlit, PHP, TensorFlow, Laravel, Java, Spring Boot**
 
 - 📫 How to reach me **sbhuiyan192050@bscse.uiu.ac.bd**
 
