@@ -11,10 +11,6 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 💬 Ask me about **Streamlit, PHP, TensorFlow, Laravel, Java, Spring Boot**
-
 - 📫 How to reach me **sbhuiyan192050@bscse.uiu.ac.bd**
 
 - ⚡ Personal credo **Be the change you wish to see in the world**
