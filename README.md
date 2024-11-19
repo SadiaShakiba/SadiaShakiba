@@ -11,8 +11,6 @@
 <br/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ImageSInsight](https://github.com/SadiaShakiba/ImageSInsight)
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Streamlit, PHP, TensorFlow, Laravel, Java, Spring Boot**
